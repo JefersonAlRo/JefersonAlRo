@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jeferson Alves
+- 👀 I’m interested in Python, Mobile (Flutter, Dart, Kotlin, Javascript)
+- 🌱 I’m currently learning Python, Javascript
+- 💞️ I’m looking to help the community with their problems, not only coding.
+- 📫 How to reach me
