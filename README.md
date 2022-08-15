@@ -10,7 +10,7 @@ I've fineshed my graduation in 2018 and since then I stopped programming. Now I'
 * 🖥️  See my portfolio at [completelater](http://completelater)
 * ✉️  You can contact me at [jefersonrodriguess99@gmail.com](mailto:jefersonrodriguess99@gmail.com)
 * 🚀  I'm currently working on [complete later](http://completelater)
-* 🧠  I'm learning Python, JavaScript, Kotlin, Dart
+* 🧠  I'm learning Python, JavaScript, React.js, Node.js
 * 🤝  I'm open to collaborating on Coding and document repositories
 * ⚡  Love my cats more than I love some humans
 
